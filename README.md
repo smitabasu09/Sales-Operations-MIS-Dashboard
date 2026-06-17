@@ -120,21 +120,23 @@ to building an interactive reporting dashboard.
 ![KPI Overview](images/kpi_overview.png)
 
 ### 🔹 Raw Dataset
-![Raw Dataset](screenshots/raw_dataset.png)
+![Raw Dataset](images/raw_dataset.png)
+![Raw Dataset](images/raw_dataset2.png)
 
 ### 🔹 Cleaned Dataset
 ![Cleaned Dataset](screenshots/cleaned_dataset.png)
 
 ### 🔹 Formulas in Action
+![IF](images/if.png)
 ![XLOOKUP](images/xlookup.png)
 ![VLOOKUP](images/vlookup.png)
 ![SUMIF](images/sumif.png)
 
 ### 🔹 Pivot Tables Summary
-![Pivot Tables](screenshots/pivot_tables.png)
+![Pivot Tables](images/pivot_tables.png)
 
 ### 🔹 Charts Dashboard
-![Charts](screenshots/charts_dashboard.png)
+![Charts](images/charts_dashboard.png)
 
 ---
 
