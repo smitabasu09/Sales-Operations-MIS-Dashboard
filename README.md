@@ -127,6 +127,8 @@ to building an interactive reporting dashboard.
 
 ### 🔹 Formulas in Action
 ![XLOOKUP](images/xlookup.png)
+![VLOOKUP](images/vlookup.png)
+![SUMIF](images/sumif.png)
 
 ### 🔹 Pivot Tables Summary
 ![Pivot Tables](screenshots/pivot_tables.png)
