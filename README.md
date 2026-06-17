@@ -37,6 +37,7 @@ to building an interactive reporting dashboard.
 
 ## 🗂️ Dataset Information
 
+### 📥 Raw Dataset (Original - 7 Columns)
 | Column | Description |
 |--------|-------------|
 | Date | Transaction date |
@@ -46,7 +47,51 @@ to building an interactive reporting dashboard.
 | Units Sold | Number of units per transaction |
 | Revenue | Revenue generated (₹) |
 | Target | Sales target for that transaction |
-| Status | ACHIEVED / NOT ACHIEVED |
+
+---
+
+## 🧹 Data Cleaning & Transformation
+
+### 🔧 Cleaning Steps Performed
+
+| Step | Action | Result |
+|------|--------|--------|
+| 1 | Checked for blank/empty cells | ✅ No blank cells found |
+| 2 | Checked for duplicate rows (Data → Remove Duplicates) | ✅ No duplicates found |
+| 3 | Verified date format consistency | ✅ All dates in DD-Mon-YYYY format |
+| 4 | Froze header row | ✅ Headers always visible while scrolling |
+| 5 | Adjusted row height & column width | ✅ Clean readable layout |
+| 6 | Applied Auto Filters on all columns | ✅ Easy data filtering enabled |
+| 7 | Styled header row | ✅ Bold text, blue background |
+
+---
+
+### 🔄 Data Transformation Steps
+
+| Step | What was added | Method |
+|------|---------------|--------|
+| 1 | **Status Column** (new 8th column) | `=IF(F2>G2,"ACHIEVED","NOT ACHIEVED")` |
+| 2 | **Conditional Formatting** on Status | Green = ACHIEVED, Red = NOT ACHIEVED |
+| 3 | **Employee → Region Lookup** | `=XLOOKUP(L4,C:C,B:B,"NOT FOUND")` |
+| 4 | **Product → Revenue Lookup** | `=VLOOKUP(L9,D:F,3,FALSE)` |
+| 5 | **Region → Total Revenue** | `=SUMIF(B:B,L14,F:F)` |
+
+---
+
+### 📊 Before vs After
+
+| | Raw Data | After Transformation |
+|--|---------|---------------------|
+| Columns | 7 | 8 (Status added) |
+| Blank Cells | 0 | 0 |
+| Duplicate Rows | 0 | 0 |
+| Header Styling | None | Bold + Blue background |
+| Filters | None | Auto filters on all columns |
+| Status Tracking | None | ACHIEVED / NOT ACHIEVED |
+| Lookup Tables | None | XLOOKUP, VLOOKUP, SUMIF |
+
+### 🖼️ Cleaned Dataset Preview
+![Cleaned Dataset](screenshots/cleaned_dataset.png)
 
 ---
 
@@ -72,10 +117,13 @@ to building an interactive reporting dashboard.
 ## 📊 Dashboard Preview
 
 ### 🔹 KPI Overview
-![KPI Overview](images/kpi_overview.png)
+![KPI Overview](screenshots/kpi_overview.png)
 
 ### 🔹 Raw Dataset
 ![Raw Dataset](screenshots/raw_dataset.png)
+
+### 🔹 Cleaned Dataset
+![Cleaned Dataset](screenshots/cleaned_dataset.png)
 
 ### 🔹 Formulas in Action
 ![Formulas](screenshots/formulas.png)
