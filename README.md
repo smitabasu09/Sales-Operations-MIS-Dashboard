@@ -6,7 +6,7 @@
 ---
 
 ## 🔗 Live Dashboard
-👉 [Click here to view the Live Interactive Dashboard](YOUR_GOOGLE_SHEET_LINK_HERE)
+👉 [Click here to view the Live Interactive Dashboard](https://docs.google.com/spreadsheets/d/1u0RjFiRw6L67ayCgS6azC60h7G7Gx5GQ/edit?usp=sharing&ouid=103931051455425320845&rtpof=true&sd=true)
 
 > *Open the link → Go to the Dashboard sheet tab to see charts and KPIs*
 
