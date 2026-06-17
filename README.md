@@ -72,7 +72,7 @@ to building an interactive reporting dashboard.
 ## 📊 Dashboard Preview
 
 ### 🔹 KPI Overview
-![KPI Overview](screenshots/kpi_overview.png)
+![KPI Overview](images/kpi_overview.png)
 
 ### 🔹 Raw Dataset
 ![Raw Dataset](screenshots/raw_dataset.png)
