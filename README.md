@@ -145,7 +145,7 @@ to building an interactive reporting dashboard.
 📁 Sales-Operations-MIS-Dashboard
 │
 ├── 📄 README.md
-├── 📊 raw_dataset.xlsx
+├── 📊 Sales_Operations_MIS_Dataset_200Rows.xlsx
 └── 📁 screenshots
     ├── kpi_overview.png
     ├── raw_dataset.png
