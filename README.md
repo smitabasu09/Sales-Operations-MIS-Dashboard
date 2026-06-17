@@ -124,7 +124,7 @@ to building an interactive reporting dashboard.
 ![Raw Dataset](images/raw_dataset2.png)
 
 ### 🔹 Cleaned Dataset
-![Cleaned Dataset](screenshots/cleaned_dataset.png)
+![Cleaned Dataset](screenshots/cleaned-dataset.png)
 
 ### 🔹 Formulas in Action
 ![IF](images/if.png)
