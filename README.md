@@ -169,9 +169,8 @@ to building an interactive reporting dashboard.
 
 1. Click the **Live Dashboard link** at the top of this README
 2. Navigate to the **Dashboard tab** in Google Sheets
-3. Explore **Pivot Table sheets** for detailed breakdowns
-4. Check the **Raw Data sheet** to see formulas in each column
-
+3. Explore **Pivot Table sheet** for detailed breakdowns
+4. Download the `.xlsx` file to explore all sheets — Raw Data, Cleaned Data, Pivot Tables and Dashboard
 ---
 
 ## 👩‍💼 About the Author
