@@ -126,7 +126,7 @@ to building an interactive reporting dashboard.
 ![Cleaned Dataset](screenshots/cleaned_dataset.png)
 
 ### 🔹 Formulas in Action
-![Formulas](screenshots/formulas.png)
+![XLOOKUP](images/xlookup.png)
 
 ### 🔹 Pivot Tables Summary
 ![Pivot Tables](screenshots/pivot_tables.png)
