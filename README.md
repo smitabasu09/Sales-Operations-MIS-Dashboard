@@ -125,8 +125,8 @@ to building an interactive reporting dashboard.
 ## 👩‍💼 About the Author
 
 **Smita Basu**  
-Aspiring Data / MIS Analyst  
-Skills: Excel | Google Sheets | MIS Reporting | Data Analysis | Pivot Tables
+Aspiring Datat, Business & MIS Analyst  
+Skills: Excel | Google Sheets | MIS Reporting | Data Analysis | Pivot Tables | SQL(MYSQL) | Microsoft Power BI | Python | Data Visualization | Retail Analysis | Customer-intelligence Analysis
 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/smita-basu-343052260?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
