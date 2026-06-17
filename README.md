@@ -91,7 +91,7 @@ to building an interactive reporting dashboard.
 | Lookup Tables | None | XLOOKUP, VLOOKUP, SUMIF |
 
 ### 🖼️ Cleaned Dataset Preview
-![Cleaned Dataset](screenshots/cleaned_dataset.png)
+![Cleaned Dataset](images/cleaned-dataset.png)
 
 ---
 
