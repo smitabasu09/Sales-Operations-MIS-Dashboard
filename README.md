@@ -158,8 +158,7 @@ to building an interactive reporting dashboard.
 - **Laptop** was the top revenue-generating product — ₹7,314,068
 - **Sneha** sold the highest units — 321 units
 - **57.5%** of all transactions met their sales target
-- **Amit** generated the highest total revenue among employees — ₹5,721,046
-
+- **Neha** generated the highest total revenue among employees — ₹5,975,298
 ---
 
 ## 🚀 How to View This Project
